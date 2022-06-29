@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "-": "^0.0.1",
     "browserify-zlib": "^0.2.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
@@ -20,7 +21,9 @@
     "mongodb": "^4.6.0",
     "nodemailer-react": "^1.0.2",
     "nodemailer-sendgrid-transport": "^0.2.0",
-    "polyfills": "^2.1.1",
+    "nodemon": "^2.0.18",
+    "polyfills": "^1.9.5",
+    "save": "^2.5.0",
     "stripe": "^9.6.0"
   }
 }
